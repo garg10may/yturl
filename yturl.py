@@ -239,6 +239,3 @@ def _main(args=sys.argv[1:], force_return=False):
     else:
         print("No local itags available.", file=sys.stderr)
         sys.exit(1)
-
-    def test_git(self):
-        pass
